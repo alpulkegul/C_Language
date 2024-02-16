@@ -1,4 +1,4 @@
-//Project Name: Contditional Expressions - Quadratic Equations_switchCase
+//Project Name: Conditional Expressions - Quadratic Equations_switchCase
 
 #include<stdio.h>
 #include<math.h> // sqrt
